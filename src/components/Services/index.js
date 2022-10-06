@@ -78,7 +78,7 @@ const Services = () => {
           <ServicesIcon src={robot} />
           <ServicesH2>Automated Services</ServicesH2>
           <ServicesP>
-            We provide automated services for scheduling your social media content, newsletter subscription 
+            We provide automated services for scheduling your social media content
           </ServicesP>
         </ServicesCard>
       </ServicesWrapper>
