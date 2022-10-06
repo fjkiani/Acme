@@ -70,7 +70,7 @@ const Footer = () => {
             <SocialLogo to='/' onClick={toggleHome}>
               dolla
             </SocialLogo>
-            {/* <WebsiteRights>dolla © 2020 All rights reserved.</WebsiteRights> */}
+           
             <SocialIcons>
               <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
                 <FaFacebook />
