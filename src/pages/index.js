@@ -28,7 +28,7 @@ function Home() {
       <Services />
       <InfoSection {...homeObjOne} />
       {/* <InfoSection {...homeObjTwo} /> */}
-      <Services />
+      {/* <Services /> */}
       {/* <About/> */}
       <InfoSection {...homeObjThree} />
       <Footer />
